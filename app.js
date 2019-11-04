@@ -58,3 +58,5 @@ if(bethCountry === 'yes' || bethCountry === 'y') {
 alert('Not quite!')
 console.log('Not quite!');
 }
+
+alert('Thank you for taking the time to get to know me!');
